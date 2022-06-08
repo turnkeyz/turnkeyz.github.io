@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Text Formatting"
-author: "Paul Le"
+title: "Hardware Learning"
+author: "Kyler Telge"
 categories: sample
 tags: [sample]
-image: cuba-1.jpg
+image: servers.jpg
 ---
 
 # Markdown Support

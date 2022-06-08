@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Getting Started"
-author: "Paul Le"
+title: "Coding"
+author: "Kyler Telge"
 categories: documentation
 tags: [documentation,sample]
-image: cuba-1.jpg
+image: coding-sample.jpg
 ---
 
 # Millennial
