@@ -4,4 +4,4 @@ title: About
 permalink: /about
 ---
 
-This is an about page
+This is Kyler Telge's portfolio showcasing different ideas and projects worked on over the years.
